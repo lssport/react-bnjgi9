@@ -1,0 +1,12 @@
+h1 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 60px;
+  background: linear-gradient(267,81deg,  #3c3dbf 1,92%, #2998ff 106,64%);
+  -webkit-background-clip: text;
+}
+h2 {
+  font-size: 32px;
+  line-height: 48px;
+  color: #454545;
+}
